@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Artegra Medium";
+  src: url("../src/Assets/ArtegraMedium.otf");
+}
+
+@font-face {
+  font-family: "Artegra SemiBold";
+  src: url("../src/Assets/ArtegraSemibold.otf");
+}
+
+h1,
+h2 {
+  font-family: "Artegra SemiBold";
+}
+
+h3,
+h4,
+h5,
+h6,
+a,
+p {
+  font-family: "Artegra Medium";
+  text-decoration: none;
+}
